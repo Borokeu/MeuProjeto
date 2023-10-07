@@ -1,2 +1,3 @@
 texto inicial sem modificações
 linha modificada para testar
+linha criada no feature-navbar
